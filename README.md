@@ -8,11 +8,11 @@
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+For this assignment, I had to write 3 programs using python. First, I created a calculator to convert seconds to years. Second, I calculated the interest rate of a given principle. Third, I was given three codes and I had to fix the bugs within these three codes.
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+From this exercise, I learned how to create simple codes using variables and the command print. I also learned how to fix bugs in programs.
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+McKenna Sheridan
