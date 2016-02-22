@@ -2,9 +2,9 @@
 
  [![License](http://img.shields.io/badge/license-MIT-blue.svg)](http://en.wikipedia.org/wiki/MIT_License)
 
-**Author:** _\<your name\>_
+**Author:** McKenna Sheridan  
 
-**Due date:** _\<date\>_
+**Due date:** February 19, 2016
 
 ## Description
 
